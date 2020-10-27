@@ -1,0 +1,40 @@
+body {
+
+    text-align: center;
+    }
+
+    h1 { 
+
+        font-family: Verdana;
+        font-size: 60px;
+
+    }
+
+    #img-caption {
+
+        font-size: 30px;
+
+    }
+    #image {
+
+        height: 500px;
+        max-width: 100%;
+
+    }
+    p {
+
+        font-family: Helvetica;
+        font-size: 18px;
+        position: relative;
+        top: 50%;
+        left: 50%;
+        margin-right: 50%;
+        transform: translate(-50%, -50%)
+    }
+    #tribute-link {
+
+        font-family: Lucida Sans;
+        font-size: 20px;
+        font-weight: bold;
+
+    }
